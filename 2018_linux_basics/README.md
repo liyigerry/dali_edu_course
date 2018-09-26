@@ -16,7 +16,7 @@ Linus Benedict Torvalds, born December 28, 1969, is a Finnish–American softwar
 
 Linus Torvalds transformed technology twice -- first with the Linux kernel, which helps power the Internet, and again with Git, the source code management system used by developers worldwide.
 
-[TED Talk](./linux_TED.flv)
+[TED Talk](https://pan.baidu.com/s/1Qpmd6Uyp4OJAur8wovMjbw)
 
 ## Course outline
 * The mind behind Linux
