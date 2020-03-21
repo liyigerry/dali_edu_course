@@ -1,35 +1,29 @@
-# 2019-2020学年 第3学期
+# Linux Basics
 
-## 高级人工智能
-|学分|学时|专业|人数|标准学时|
-|3|54|2019研究生|12||
+## What is Linux?
 
-### 课程安排
+Linux /ˈlɪnəks/ is a family of free and open-source software operating systems built around the Linux kernel. Typically, Linux is packaged in a form known as a Linux distribution (or distro for short) for both desktop and server use. The defining component of a Linux distribution is the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds.
 
-### Github Classroom
+## Why to Learn Linux?
 
-## 机器学习与数据挖掘
-|学分|学时|专业|人数|标准学时|
-|3|48|2019计科、信安|72||
+open source, as an example of operating systems, software development, system administration, against microsoft, just for fun!
 
-### 课程安排
+## Linus Benedict Torvalds
 
-### Github Classroom
+Linus Benedict Torvalds, born December 28, 1969, is a Finnish–American software engineer who is the creator, and historically, the principal developer of the Linux kernel, which became the kernel for operating systems such as the Linux operating systems, Android, and Chrome OS. He also created the distributed revision control system Git and the diving logging and planning software Subsurface.
 
-## 数字逻辑电路
-|学分|学时|专业|人数|标准学时|
-|3.5|60|2018通信|50||
+## The mind behind Linux
 
-### 课程安排
+Linus Torvalds transformed technology twice -- first with the Linux kernel, which helps power the Internet, and again with Git, the source code management system used by developers worldwide.
 
-### Github Classroom
+[TED Talk](https://pan.baidu.com/s/1Qpmd6Uyp4OJAur8wovMjbw)
 
-## 多媒体技术
-|学分|学时|专业|人数|标准学时|
-|3|48|2019园艺|72||
-|3|48|2019酒管、旅管|72||
-|3|48|2019汉语言|72||
+## Course outline
+* The mind behind Linux
+* How to use Linux routinely
 
-### 课程安排
-
-### Github Classroom
+## Course arrangement
+* 38 hours, 13 weeks
+* lectures + labs/assignments + projects
+* Evaluation: interaction(20%)+presentation(30%)+Final exam(50%)
+* online: []https://github.com/liyigerry/dali_edu_course
